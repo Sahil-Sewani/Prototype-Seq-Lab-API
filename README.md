@@ -2,6 +2,8 @@
 
 #### Base URL: http://127.0.0.1:5000/
 
+#### To interact with these endpoints, you can use tools like Postman to make HTTP requests.
+
 ## Employee Routes
 
 ### Get All Employees
