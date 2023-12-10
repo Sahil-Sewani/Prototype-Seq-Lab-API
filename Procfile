@@ -1,1 +1,1 @@
-web: Python seqlabAPI2.py
+web: gunicorn seqlabAPI2.py:app
