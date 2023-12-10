@@ -1,6 +1,6 @@
 # seq-lab-API
 
-#### Base URL: http://127.0.0.1:5000/
+#### Base URL: https://seq-lan-api-0f260ca5bb66.herokuapp.com/
 
 #### To interact with these endpoints, you can use tools like Postman to make HTTP requests.
 
