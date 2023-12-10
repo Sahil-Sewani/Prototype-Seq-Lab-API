@@ -1,1 +1,1 @@
-web: Python seqlabAPI2.py:application
+web: Python seqlabAPI2.py
