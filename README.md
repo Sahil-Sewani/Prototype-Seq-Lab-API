@@ -2,7 +2,7 @@
 
 #### Base URL: https://seq-lan-api-0f260ca5bb66.herokuapp.com/
 
-*Does not need local host to run the link above, just paste in web browser*
+*This applicaiton does not need local host to run the link above, just paste the above link in web browser and use the same endpoints listed*
 
 ### Running the API Locally
 
