@@ -1,4 +1,4 @@
-# seq-lab-API
+# Seq-Lab-API
 
 #### Base URL: https://seq-lan-api-0f260ca5bb66.herokuapp.com/
 
