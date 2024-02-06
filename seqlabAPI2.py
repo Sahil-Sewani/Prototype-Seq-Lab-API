@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import pymysql
 
 app = Flask(__name__)
@@ -10,6 +10,11 @@ connection = pymysql.connect(
     user='23FA_sewanis',
     password='Shout4_sewanis_GOME'
 )
+
+# Homepage Route
+@app.route('/')
+def homepage():
+    return render_template('homepage.html')
 
 # EMPLOYEE TABLE
 
