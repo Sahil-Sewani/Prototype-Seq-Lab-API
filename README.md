@@ -1,12 +1,8 @@
 # Seq-Lab-API
 
-#### Base URL: https://seq-lan-api-0f260ca5bb66.herokuapp.com/
-
-*This applicaiton does not require a local host to run, copy-paste the link above in web browser and use the same endpoints listed in the README.*
-
 ### Running the API Locally
 
-Alternatively, you can run the API code on your local machine by cloning this repository and executing the API code provided in the repository.
+You can run the API code on your local machine by cloning this repository and executing the API code provided in the repository.
 
 Ensure you have the required dependencies installed, then execute the API code. By default, the API may run on `http://localhost:5000` or another specified port.
 
